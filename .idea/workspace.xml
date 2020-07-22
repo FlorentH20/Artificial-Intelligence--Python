@@ -25,10 +25,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Naive Bayes.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/confusion_matrix.py" />
   </component>
   <component name="RunManager">
-    <configuration name="Naive Bayes" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="confusion_matrix" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Artificial-Intelligence--Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,7 +40,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Naive Bayes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/confusion_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,29 +64,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595411177149">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595414075498">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1595411177149" />
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1595411176208">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1595414075498" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1595414074195">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1595411176208" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1595413732994">
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1595414074195" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1595414049584">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1595413732994" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1595413732994">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1595414049584" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1595414049584">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1595413732994" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1595413732990">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1595414049584" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1595414049584">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1595413732990" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1595413732994">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1595414049584" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1595414049584">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1595413732994" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1595414049584" />
   </component>
 </project>
