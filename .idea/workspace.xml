@@ -25,10 +25,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Income classifier.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/regressor multivar.py" />
   </component>
   <component name="RunManager">
-    <configuration name="Income classifier" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="regressor multivar" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Artificial-Intelligence--Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,7 +40,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Income classifier.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regressor multivar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,33 +64,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595415532188">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595497576549">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1595415532188" />
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1595415531150">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1595497576549" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1595497575439">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1595415531150" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1595417125987">
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1595497575439" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1595498834949">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1595417125987" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1595417125987">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1595498834949" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1595498834949">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1595417125987" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1595417125987">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1595498834949" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1595498834949">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1595417125987" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1595417125987">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1595498834949" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1595498834949">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1595417125987" />
-    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1595416314608">
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1595498834949" />
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1595498714737">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1595416314608" />
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1595498714737" />
   </component>
 </project>
