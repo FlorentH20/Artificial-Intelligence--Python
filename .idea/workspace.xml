@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/house pricing.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Basics" />
   </component>
   <component name="RunManager">
     <configuration name="house pricing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -68,26 +68,26 @@
       <screen x="0" y="0" width="1536" height="832" />
     </state>
     <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1595503308043" />
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1595503306283">
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1596144030605">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1595503306283" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1595503995832">
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1596144030605" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1595514298714">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1595503995832" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1595503995832">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1595514298714" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1595514298714">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1595503995832" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1595503995832">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1595514298714" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1595514298714">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1595503995832" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1595503995832">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1595514298714" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1595514298714">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1595503995832" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1595514298714" />
     <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1595498714737">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
