@@ -25,10 +25,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Unsupervised_learning.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clustering_quality.py" />
   </component>
   <component name="RunManager">
-    <configuration name="Unsupervised_learning" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="clustering_quality" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Chapter 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,7 +40,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unsupervised_learning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clustering_quality.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,30 +62,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="71" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597008159318">
+    <state x="223" y="71" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597055497863">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="223" y="71" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1597008159318" />
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1597008158386">
+    <state x="223" y="71" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1597055497863" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1597055496855">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1597008158386" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1597011612275">
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1597055496855" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1597056107436">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1597011612275" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1597011612275">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1597056107436" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1597056107436">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1597011612275" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1597011612275">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1597056107436" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1597056107436">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1597011612275" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1597011612275">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1597056107436" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1597056107436">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1597011612275" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1597056107436" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
